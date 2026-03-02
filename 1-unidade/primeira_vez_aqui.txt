@@ -1,0 +1,9 @@
+
+ # Para acessar os notebooks pela primeira vez:
+
+ - Ao lado de um arquivo de notebook (.ipynb) acesse os três pontinhos verticais;
+ - Open with > Connect more apps; 
+ - Digite em "Search App": colaboratory;
+ - Clique no ícone "CO" do Colab e habilite a instalação;
+ - Após instalação, você poderá abrir o notebook com dois cliques.
+
