@@ -1,0 +1,10 @@
+ipykernel
+notebook
+pandas
+scikit-learn
+nltk
+matplotlib
+hdbscan
+umap-learn
+plotly
+nbformat
