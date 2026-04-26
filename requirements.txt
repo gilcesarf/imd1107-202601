@@ -8,3 +8,4 @@ hdbscan
 umap-learn
 plotly
 nbformat
+nbconvert
