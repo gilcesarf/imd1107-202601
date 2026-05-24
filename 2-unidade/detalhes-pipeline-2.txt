@@ -1,0 +1,241 @@
+======================================== Documentos Significativos por Tópico ========================================
+Documento #1 (idx=1282)
+Distribuição tópicos: ['99.36%', '0.64%']
+
+Trecho dos primeiros 600 caracteres:
+THE WHITE HOUSE
+
+                    Office of the Press Secretary
+______________________________________________________________
+For Immediate Release                             April 23, 1993     
+
+	     
+                  PRESS CONFERENCE BY THE PRESIDENT
+	     
+	     
+                            The East Room 
+
+
+1:00 P.M. EDT
+	     
+	     
+	     THE PRESIDENT:  Terry, do you have a question?
+	     
+	     Q	  Mr. President, there's a growing feeling that the 
+Western response to bloodshed in Bosnia has been woefully inadequate.  
+Holocaust survivor Elie Wiesel asked you yesterday to do som
+====================================================================================================
+Documento #2 (idx=1555)
+Distribuição tópicos: ['99.33%', '0.67%']
+
+Trecho dos primeiros 600 caracteres:
+ETHER IMPLODES 2 EARTH CORE, IS GRAVITY!!!
+
+  This paper BOTH describes how heavenly bodys can be stationary, 
+ether sucking structures, AND why we observe "orbital" motion!!
+
+  Ether, the theoretical propogation media of electro-magnetic 
+waves, was concluded not to exist, based on the results of the 
+Michelson-Moreley experiment conducted a century ago. 
+
+  I propose that those conclusions are flawed, based on the fact 
+that the experiment was designed to look for a flow parallel to the 
+earth's surface, not perpindicular. (Due to the prevailing assumption 
+that the earth traveled through th
+====================================================================================================
+Documento #3 (idx=2556)
+Distribuição tópicos: ['99.32%', '0.68%']
+
+Trecho dos primeiros 600 caracteres:
+
+
+
+
+   Granted.  Pomeroy, Bell, Weinberg, 1967.  "National Institute of
+Mental Health Paper 12353, ''Patterns of Adjusment in Deviant
+Populations.''"  Cited as part of the National Institute of Mental
+Health Task Force on Homosexuality.
+
+   Pomery concluded, "The Kinsey statistic of 37% is probably higher
+than is realistic.  According to these estimates, 33% is a more
+realistic figure."
+
+   (I went out and bought LOTS of Bell & Weinberg this weekend... can
+you tell?)
+
+   Also, The Janus Report on Sexual Behavior (Samuel S. Janus, Ph.D.
+and Cynthia L. Janus, M.D., John Wiley & Sons (pub), 1992)
+====================================================================================================
+Documento #4 (idx=2107)
+Distribuição tópicos: ['99.32%', '0.68%']
+
+Trecho dos primeiros 600 caracteres:
+
+When you buy insurance where you live, it is based on the local rates.
+Tourists coming from, say, Utah will find that there is a difference
+in what their insurance will cover FOB Provo and what they get stuck
+with at Lenox Hill or Mount Sinai if they fall ill in the Big Apple.
+
+
+It would depend on where you live, downtown Toronto or Mile 101,
+British Columbia (just like Cheyenne, WY vs. Boston, MA).  Again,
+geography rears its ugly head.
+
+Since our health care providers are private, they depend on an
+adequate market size in order to sustain enough business.  Since
+our health care professional
+====================================================================================================
+Documento #5 (idx=925)
+Distribuição tópicos: ['0.83%', '99.17%']
+
+Trecho dos primeiros 600 caracteres:
+Archive-name: space/new_probes
+Last-modified: $Date: 93/04/01 14:39:17 $
+
+UPCOMING PLANETARY PROBES - MISSIONS AND SCHEDULES
+
+    Information on upcoming or currently active missions not mentioned below
+    would be welcome. Sources: NASA fact sheets, Cassini Mission Design
+    team, ISAS/NASDA launch schedules, press kits.
+
+
+    ASUKA (ASTRO-D) - ISAS (Japan) X-ray astronomy satellite, launched into
+    Earth orbit on 2/20/93. Equipped with large-area wide-wavelength (1-20
+    Angstrom) X-ray telescope, X-ray CCD cameras, and imaging gas
+    scintillation proportional counters.
+
+
+    CASSINI 
+====================================================================================================
+Documento #6 (idx=804)
+Distribuição tópicos: ['1.01%', '98.99%']
+
+Trecho dos primeiros 600 caracteres:
+Ethnocentric USian that I am, I've assumed that we and the
+xUSSR were the only countries with significant capabilities to track
+non-cooperative objects in low Earth orbit. Grazing in a couple of 
+databases recently,  I found that Japan has some optical capabilities
+along this line, and also uses a radar designed for other purposes
+for orbital debris surveys (it isn't clear whether the radar can 
+determine orbital elements for the objects it detects). Abstracts of 
+the articles are appended. 
+
+
+    This leads to the more general question: do yet other people than 
+the US, Russia, and Japan do s
+====================================================================================================
+Documento #7 (idx=1783)
+Distribuição tópicos: ['1.04%', '98.96%']
+
+Trecho dos primeiros 600 caracteres:
+Forwarded from Neal Ausman, Galileo Mission Director
+
+                                GALILEO
+                     MISSION DIRECTOR STATUS REPORT
+                             POST-LAUNCH
+                         April 9 - 15, 1993
+
+SPACECRAFT
+
+1.  On April 9, real-time commands were sent, as planned, to reacquire
+celestial reference after completion of the Low Gain Antenna (LGA-2)
+swing/Dual Drive Actuator (DDA) hammer activities.
+
+2.  On April 9, the EJ-1 (Earth-Jupiter #1) sequence memory load was uplinked
+to the spacecraft without incident.  This sequence covers spacecraft activity
+from Apr
+====================================================================================================
+Documento #8 (idx=2100)
+Distribuição tópicos: ['1.08%', '98.92%']
+
+Trecho dos primeiros 600 caracteres:
+
+
+I can't see the need for a single (big? expensive? heavy?) "mothership" except
+for Voyager style flyby missions. A few years ago, I did some calculations on a
+"Grand Tour" space probe launched by a Saturn V in 1975-76. At the time,I felt 
+that
+the idea of a big "mother ship" had some merit - the Voyagers had to be rather
+small, lightweight craft due to the limitations imposed by using weak Titan
+III/Centaur launchers. The concept I examined (and Michael's?) had a lot in
+common with the British Interplanetary Society's Daedalus project for sending a
+probe to Barnard's Star - i.e. a large "bus
+====================================================================================================
+Documento #9 (idx=1134)
+Distribuição tópicos: ['49.63%', '50.37%']
+
+Trecho dos primeiros 600 caracteres:
+
+Is it right??? That is new stuff for me. So it means that  you just can 
+not put a sattellite around around the Moon for too long because its 
+orbit will be unstable??? If so, what is the reason??? Is that because 
+the combined gravitacional atraction of the Sun,Moon and Earth 
+that does not provide a stable  orbit around the Moon???
+
+ C.O.EGALON@LARC.NASA.GOV
+
+C.O.Egalon@larc.nasa.gov
+====================================================================================================
+Documento #10 (idx=1469)
+Distribuição tópicos: ['49.61%', '50.39%']
+
+Trecho dos primeiros 600 caracteres:
+THE ELECTRONIC JOURNAL OF
+                  THE ASTRONOMICAL SOCIETY OF THE ATLANTIC
+
+                       Volume 4, Number 9 - April 1993
+
+                         ###########################
+
+                              TABLE OF CONTENTS
+
+                         ###########################
+
+          * ASA Membership and Article Submission Information
+
+          * The Soviets and Venus, Part 3 - Larry Klaes
+
+                         ###########################
+
+                         ASA MEMBERSHIP INFORMATION
+
+        The Electronic Journal of the Astronomical Society of the Atlantic
+====================================================================================================
+Documento #11 (idx=1506)
+Distribuição tópicos: ['50.47%', '49.53%']
+
+Trecho dos primeiros 600 caracteres:
+Well, I seem to have struck an  interesting discussion off.  Given that I
+am not an astrophysicist  or nuclear physicist,  i'll have to boil it
+down a bit.
+
+1)  ALl the data on bursts to date,  shows a smooth random distribution.
+
+2)  that means they aren't concentrated in  galactic cores, our or someone
+elses.
+
+3) If the distribution is smooth,  we are either seeing some  ENORMOUSLY
+large phenomena  scattered at the edge of the universe  said phenomena
+being subject to debate almost as vioent as the phenomena
+	OR
+we are seeing some phenomena  out at like the Oort cloud,  but then it needs
+som
+====================================================================================================
+Documento #12 (idx=2225)
+Distribuição tópicos: ['50.53%', '49.47%']
+
+Trecho dos primeiros 600 caracteres:
+
+
+
+Well pat for once I agree with you and I like your first idea that you had.
+IT probably is the gamma ray signature of the warp transitions of interstellar
+spacecraft! :)
+
+Well it makes as much sense as some things. I was at the first Gamma Ray
+Burst conference here at UAH and had great fun watching the discomfiture
+of many of the Gamma Ray scientists. Much scruitiny was given to the
+data reductions. I remember one person in particular who passionately declared
+that the data was completely wrong as there were no explanation for the
+phenomena of the smooth sky distribution. (heck it even shoo
+====================================================================================================

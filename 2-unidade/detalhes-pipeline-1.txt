@@ -1,0 +1,275 @@
+======================================== Documentos Significativos por Tópico ========================================
+Documento #1 (idx=170)
+Distribuição tópicos: ['100.00%', '0.00%']
+
+Trecho dos primeiros 600 caracteres:
+THE WHITE HOUSE
+
+                  Office of the Press Secretary
+                 (Vancouver, British Columbia) 
+______________________________________________________________
+
+
+                       BACKGROUND BRIEFING
+                               BY
+                 SENIOR ADMINISTRATION OFFICIALS
+
+
+                          April 4, 1993
+	     
+                          Canada Place
+                  Vancouver, British Columbia  
+
+
+9:40 A.M. PST
+	     
+	     
+	     Folks, we're about to start the BACKGROUND BRIEFING 
+on the aid package.
+
+	     SENIOR ADMINISTRATION OFFICIAL:  Good mornin
+====================================================================================================
+Documento #2 (idx=1282)
+Distribuição tópicos: ['100.00%', '0.00%']
+
+Trecho dos primeiros 600 caracteres:
+THE WHITE HOUSE
+
+                    Office of the Press Secretary
+______________________________________________________________
+For Immediate Release                             April 23, 1993     
+
+	     
+                  PRESS CONFERENCE BY THE PRESIDENT
+	     
+	     
+                            The East Room 
+
+
+1:00 P.M. EDT
+	     
+	     
+	     THE PRESIDENT:  Terry, do you have a question?
+	     
+	     Q	  Mr. President, there's a growing feeling that the 
+Western response to bloodshed in Bosnia has been woefully inadequate.  
+Holocaust survivor Elie Wiesel asked you yesterday to do som
+====================================================================================================
+Documento #3 (idx=1572)
+Distribuição tópicos: ['100.00%', '0.00%']
+
+Trecho dos primeiros 600 caracteres:
+THE WHITE HOUSE
+
+                    Office of the Press Secretary
+_____________________________________________________________________
+For Immediate Release                                  April 15, 1993
+
+
+                            PRESS BRIEFING
+                       BY GEORGE STEPHANOPOULOS
+
+                          The Briefing Room
+
+
+
+1:04 P.M. EDT
+	     
+	     
+	     MR. STEPHANOPOULOS:  Good afternoon.  
+	     
+	     Q	  Could we do this on the lawn?
+	     
+	     MR. STEPHANOPOULOS:  That would be nice.  Let's go out 
+to the cherry blossoms.  We'll do like the President.
+	     
+	 
+====================================================================================================
+Documento #4 (idx=1670)
+Distribuição tópicos: ['100.00%', '0.00%']
+
+Trecho dos primeiros 600 caracteres:
+THE WHITE HOUSE
+
+                    Office of the Press Secretary
+_____________________________________________________________________
+For Immediate Release                                  April 20, 1993
+
+
+                            PRESS BRIEFING
+                       BY GEORGE STEPHANOPOULOS
+
+	     
+                          The Briefing Room
+
+
+12:36 P.M. EDT
+	     
+	     
+	     MR. STEPHANOPOULOS:  As you know, the President is going 
+to come out at 1:15 p.m.  With your indulgence, I think what we'd 
+like to do is have the President award the National Teacher's Award 
+first and then ha
+====================================================================================================
+Documento #5 (idx=1176)
+Distribuição tópicos: ['0.00%', '100.00%']
+
+Trecho dos primeiros 600 caracteres:
+This file and other text and image files from JPL missions are
+available from the JPL Info public access computer site,
+reachable by Internet via anonymous ftp to pubinfo.jpl.nasa.gov
+(128.149.6.2); or by dialup modem to +1 (818) 354-1333, up to
+9600 bits per second, parameters N-8-1.
+-----------------------------------------------------------------
+
+Our Solar System at a Glance
+
+Information Summary 
+PMS 010-A (JPL)
+June 1991
+
+JPL 410-34-1  6/91
+
+NASA
+National Aeronautics and Space Administration
+
+Jet Propulsion Laboratory
+California Institue of Technology
+Pasadena, California
+
+
+For a printed 
+====================================================================================================
+Documento #6 (idx=560)
+Distribuição tópicos: ['0.01%', '99.99%']
+
+Trecho dos primeiros 600 caracteres:
+Archive-name: rec-autos/part5
+
+[this article is one of a pair of articles containing commonly
+asked automotive questions; the other article contains questions
+more geared to the automotive enthusiast, and so is not crossposted
+to misc.consumers.  -- rpw]
+
+   [changes as of 14 April 1993: revised brake fluid section, as
+    non-silicone DOT-5 fluids are now apparently available -- rpw]
+
+                 Commonly Asked Automotive Questions
+
+
+Tire Questions:
+
+Q:  What do the funny numbers on the sides of my tires mean?
+
+A:  Typically, you will see something like 195/60HR14.  the 195 is the
+    ov
+====================================================================================================
+Documento #7 (idx=2430)
+Distribuição tópicos: ['0.01%', '99.99%']
+
+Trecho dos primeiros 600 caracteres:
+Archive-name: space/probe
+Last-modified: $Date: 93/04/01 14:39:19 $
+
+PLANETARY PROBES - HISTORICAL MISSIONS
+
+    This section was lightly adapted from an original posting by Larry Klaes
+    (klaes@verga.enet.dec.com), mostly minor formatting changes. Matthew
+    Wiener (weemba@libra.wistar.upenn.edu) contributed the section on
+    Voyager, and the section on Sakigake was obtained from ISAS material
+    posted by Yoshiro Yamada (yamada@yscvax.ysc.go.jp).
+
+US PLANETARY MISSIONS
+
+
+    MARINER (VENUS, MARS, & MERCURY FLYBYS AND ORBITERS)
+
+    MARINER 1, the first U.S. attempt to send a spacecraft 
+====================================================================================================
+Documento #8 (idx=1538)
+Distribuição tópicos: ['0.01%', '99.99%']
+
+Trecho dos primeiros 600 caracteres:
+Archive-name: space/references
+Last-modified: $Date: 93/04/01 14:39:21 $
+
+REFERENCES ON SPECIFIC AREAS
+
+    PUBLISHERS OF SPACE/ASTRONOMY MATERIAL
+
+    Astronomical Society of the Pacific
+    1290 24th Avenue
+    San Francisco, CA 94122
+
+	More expensive but better organized slide sets.
+
+    Cambridge University Press
+    32 East 57th Street
+    New York, NY 10022
+
+    Crawford-Peters Aeronautica
+    P.O. Box 152528
+    San Diego, CA 92115
+    (619) 287-3933
+
+	An excellent source of all kinds of space publications. They publish
+	a number of catalogs, including:
+	    Aviation and Space, 1945-196
+====================================================================================================
+Documento #9 (idx=1863)
+Distribuição tópicos: ['50.04%', '49.96%']
+
+Trecho dos primeiros 600 caracteres:
+
+I don't think touting contributions is a good idea.  World War II produced
+many many beneficial spinoffs.  Eg. Radar, jet aeroplanes, rocket technology.
+I don't think anyone would argue that World War II was, in and of itself,
+a good thing.
+
+If you want people to back the space program it must be a good thing in
+and of itself.
+====================================================================================================
+Documento #10 (idx=2133)
+Distribuição tópicos: ['50.05%', '49.95%']
+
+Trecho dos primeiros 600 caracteres:
+
+The CU people have been, and continue to be big ozone scientists. So 
+this is consistent. It is also consistent with the new "Comercial 
+applications" that NASA and Clinton are pushing so hard. 
+
+Did anyone catch the rocket that was launched with a movie advert 
+all over it? I think the rocket people got alot of $$ for painting 
+up the sides with the movie stuff. What about the Coke/Pepsi thing 
+a few years back? NASA has been trying to find ways to get other 
+people into the space funding business for some time. Frankly, I've 
+thought about trying it too. When the funding gets tight, only th
+====================================================================================================
+Documento #11 (idx=2671)
+Distribuição tópicos: ['49.93%', '50.07%']
+
+Trecho dos primeiros 600 caracteres:
+
+
+
+
+Don't you think it would be better to E-mail back to you that we read sci.space
+so that you can count them and every server in the world does not have to get
+BW'd to death.  Or instead you could possible cut and past all the senders into
+a single post and save on header bandwidth....  Not meaning to be taken as a 
+flame  it's late and we have to work toward a demo .... little punchy
+-- 
+====================================================================================================
+Documento #12 (idx=2302)
+Distribuição tópicos: ['49.90%', '50.10%']
+
+Trecho dos primeiros 600 caracteres:
+
+All Toyotas have airbags with a real horn. Come on, how hard can it
+be to put a little pressure plate there. I hope Toyota doesn't follow
+everyone else and make the horns little buttons that I wouldn't want
+to fumble for.
+
+john
+
+====================================================================================================
