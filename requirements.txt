@@ -10,5 +10,8 @@ plotly
 nbformat
 nbconvert
 seaborn
-tensorflow>=2.16,<3
+tensorflow==2.18.1
 keras>=3.4,<4
+keras_tuner
+tensorboard
+tensorflow-metal==1.2.0
