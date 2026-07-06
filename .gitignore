@@ -214,3 +214,9 @@ __marimo__/
 **/*.joblib
 ~$*.xlsx
 3-unidade/dataset/glove.6B.100d.txt
+
+# Modelos e pesos treinados
+3-unidade/atividade5-modelos/
+*.weights.h5
+*.keras
+*_savedmodel/

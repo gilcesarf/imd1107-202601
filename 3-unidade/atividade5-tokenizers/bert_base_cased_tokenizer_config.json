@@ -1,0 +1,16 @@
+{
+    "tokenizer_name": "bert-base-cased",
+    "vocab_size": 28996,
+    "source_language": "en",
+    "target_language": "pt",
+    "max_len_source": 64,
+    "max_len_target": 64,
+    "pad_token": "[PAD]",
+    "cls_token": "[CLS]",
+    "sep_token": "[SEP]",
+    "unk_token": "[UNK]",
+    "pad_id": 0,
+    "cls_id": 101,
+    "sep_id": 102,
+    "unk_id": 100
+}
